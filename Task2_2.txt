@@ -1,0 +1,20 @@
+февр. 19, 2023 6:00:10 PM Zadachi.task2 babblSort
+INFO: [48, 77, 91, 94, 81, 44, 77, 19, 47, 6]
+февр. 19, 2023 6:00:10 PM Zadachi.task2 babblSort
+INFO: [77, 91, 94, 81, 48, 77, 44, 47, 19, 6]
+февр. 19, 2023 6:00:10 PM Zadachi.task2 babblSort
+INFO: [91, 94, 81, 77, 77, 48, 47, 44, 19, 6]
+февр. 19, 2023 6:00:10 PM Zadachi.task2 babblSort
+INFO: [94, 91, 81, 77, 77, 48, 47, 44, 19, 6]
+февр. 19, 2023 6:00:10 PM Zadachi.task2 babblSort
+INFO: [94, 91, 81, 77, 77, 48, 47, 44, 19, 6]
+февр. 19, 2023 6:00:10 PM Zadachi.task2 babblSort
+INFO: [94, 91, 81, 77, 77, 48, 47, 44, 19, 6]
+февр. 19, 2023 6:00:10 PM Zadachi.task2 babblSort
+INFO: [94, 91, 81, 77, 77, 48, 47, 44, 19, 6]
+февр. 19, 2023 6:00:10 PM Zadachi.task2 babblSort
+INFO: [94, 91, 81, 77, 77, 48, 47, 44, 19, 6]
+февр. 19, 2023 6:00:10 PM Zadachi.task2 babblSort
+INFO: [94, 91, 81, 77, 77, 48, 47, 44, 19, 6]
+февр. 19, 2023 6:00:10 PM Zadachi.task2 babblSort
+INFO: [94, 91, 81, 77, 77, 48, 47, 44, 19, 6]
